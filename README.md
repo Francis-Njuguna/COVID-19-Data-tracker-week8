@@ -1,4 +1,4 @@
-# COVID-19 Global Data Tracker 🌍
+# COVID-19 Data Tracker 
 
 ## Overview 📊
 A comprehensive Python-based dashboard for visualizing and analyzing global COVID-19 data using the **Our World in Data (OWID)** dataset.
@@ -28,15 +28,14 @@ pip install -r requirements.txt
 
 3. Run the notebook:
 ```bash
-jupyter notebook COVID19_Global_Data_Tracker.ipynb
+jupyter notebook COVID19-Data-tracker-week8.ipynb
 ```
 
 ## Project Structure 📁
 ```
 COVID-19-Data-tracker/
-├── COVID19_Global_Data_Tracker.ipynb
+├── COVID19-Data-tacker-week8.ipynb
 ├── owid-covid-data.csv
-├── requirements.txt
 ├── README.md
 └── ASSETs/
     ├── cases.png
@@ -113,11 +112,3 @@ Data provided by [Our World in Data](https://covid.ourworldindata.org/data/owid-
 3. Commit your changes
 4. Push to the branch
 5. Open a Pull Request
-
-## License 📝
-MIT License - See [LICENSE](LICENSE) for details
-
-## Acknowledgments 🙏
-- Our World in Data team
-- Contributing developers
-- Open-source community
